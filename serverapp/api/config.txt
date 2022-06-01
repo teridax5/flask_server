@@ -1,0 +1,7 @@
+SERVER_HOST = 127.0.0.1
+SERVER_PORT = 31415
+DB_HOST = localhost
+DB_PORT = 5433
+DB_USER = postgres
+DB_PASS = pwd123
+DB_NAME = some_db
